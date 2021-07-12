@@ -1,0 +1,8 @@
+requests>=2.25.1
+pandas>=1.1.4
+matplotlib>=3.3.3
+pytest
+healpy  # for exposure_map.py
+sphinx-argparse
+Deprecated
+jupyterlab # THEN: jupyter notebook --ip 0.0.0.0 --port 8888 # use 127
